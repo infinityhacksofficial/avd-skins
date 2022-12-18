@@ -1,6 +1,7 @@
 **Samsung Galaxy Note-10 Skin Made by Prashant Asoliya**
 
-![Demo](https://user-images.githubusercontent.com/58981656/208325479-a81737a3-4f57-451d-b416-b4936313c733.png)
+
+![Screenshot (84)](https://user-images.githubusercontent.com/58981656/208326074-b272c945-6e27-43ef-ac67-a9d611bec3ff.png)
 
 
 
@@ -11,7 +12,7 @@
  - Open `Android Device Manager`
  - Click `Create Virtual Device`
  - Click `New Hardware Profile`
- - Set Device Size = `6.3`
+ - Set Device Screen Size = `6.3`
  - Set Resolution = `1080x2280`
  - Scroll Down and in the Default Screen click the `...` (3 dots) and choose the folder with the specific skin
  - Choose other desired settings like System Image, etc.
