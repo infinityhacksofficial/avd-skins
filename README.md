@@ -1,7 +1,7 @@
 **Samsung Galaxy Note-10 Skin Made by Prashant Asoliya**
 
 
-![Screenshot (84)](https://user-images.githubusercontent.com/58981656/208326074-b272c945-6e27-43ef-ac67-a9d611bec3ff.png)
+![Screenshot (86)](https://user-images.githubusercontent.com/58981656/208326225-1a41a70b-3c1d-4ac4-9b95-87f8867d5bf2.png)
 
 
 
