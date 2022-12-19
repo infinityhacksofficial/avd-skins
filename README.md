@@ -8,7 +8,7 @@
 ## How to use it
 
 **Android Studio:**
-
+ - Download Skin [Samsung Galaxy Note-10 Skin.zip](https://github.com/infinityhacksofficial/avd-skins/files/10255061/Samsung.Galaxy.Note-10.Skin.zip)
  - Open `Android Device Manager`
  - Click `Create Virtual Device`
  - Click `New Hardware Profile`
